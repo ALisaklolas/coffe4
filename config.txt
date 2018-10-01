@@ -3,4 +3,4 @@ owner=331081268731052042
 prefix=4
 game=Type 4play
 stayinchannel=true
-songinstatus=true
+
